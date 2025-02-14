@@ -1,0 +1,13 @@
+{
+  "name": "nyota-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "pnpm --filter site dev",
+    "docs:build": "pnpm --filter site build"
+  },
+  "keywords": [],
+  "author": "Joshua Omobola <Omobolathejoshua@gmail.com> (https://koha.wtf)",
+  "license": "ISC"
+}
